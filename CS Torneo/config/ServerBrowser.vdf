@@ -2,123 +2,138 @@
 {
 	"favorites"
 	{
-		"1"
+		"0"
 		{
-			"name"	"Favorite server 0"
+			"name"		"Favorite server 0"
 			"address"	"51.38.119.150:27015"
 			"lastplayed"	"999"
-			"appID"	"0"
-			"gamedir"	"cstrike"
+			"appID"		"0"
 		}
-		"2"
+
+		"1"
 		{
-			"name"	"Favorite server 1"
+			"name"		"Favorite server 1"
 			"address"	"51.68.177.16:27015"
 			"lastplayed"	"999"
-			"appID"	"0"
-			"gamedir"	"cstrike"
+			"appID"		"0"
 		}
-		"3"
+
+		"2"
 		{
-			"name"	"Favorite server 2"
+			"name"		"Favorite server 2"
 			"address"	"188.212.100.14:27015"
 			"lastplayed"	"999"
-			"appID"	"0"
-			"gamedir"	"cstrike"
+			"appID"		"0"
 		}
-		"4"
+
+		"3"
 		{
-			"name"	"Favorite server 3"
+			"name"		"Favorite server 3"
 			"address"	"194.54.88.14:27039"
 			"lastplayed"	"999"
-			"appID"	"0"
-			"gamedir"	"cstrike"
+			"appID"		"0"
 		}
-		"5"
+
+		"4"
 		{
-			"name"	"Favorite server 4"
+			"name"		"Favorite server 4"
 			"address"	"135.125.156.196:27025"
 			"lastplayed"	"999"
-			"appID"	"0"
-			"gamedir"	"cstrike"
+			"appID"		"0"
 		}
-		"6"
+
+		"5"
 		{
-			"name"	"Favorite server 5"
+			"name"		"Favorite server 5"
 			"address"	"51.89.113.227:27015"
 			"lastplayed"	"999"
-			"appID"	"0"
-			"gamedir"	"cstrike"
+			"appID"		"0"
 		}
-		"7"
+
+		"6"
 		{
-			"name"	"Favorite server 6"
+			"name"		"Favorite server 6"
 			"address"	"146.19.215.242:27015"
 			"lastplayed"	"999"
-			"appID"	"0"
-			"gamedir"	"cstrike"
+			"appID"		"0"
 		}
-		"8"
+
+		"7"
 		{
-			"name"	"Favorite server 7"
+			"name"		"Favorite server 7"
 			"address"	"51.38.60.53:27015"
 			"lastplayed"	"999"
-			"appID"	"0"
-			"gamedir"	"cstrike"
+			"appID"		"0"
 		}
-		"9"
+
+		"8"
 		{
-			"name"	"Favorite server 8"
+			"name"		"Favorite server 8"
 			"address"	"217.156.22.22:27015"
 			"lastplayed"	"999"
-			"appID"	"0"
-			"gamedir"	"cstrike"
+			"appID"		"0"
 		}
-		"10"
+
+		"9"
 		{
-			"name"	"Favorite server 9"
+			"name"		"Favorite server 9"
 			"address"	"217.156.22.135:27015"
 			"lastplayed"	"999"
-			"appID"	"0"
-			"gamedir"	"cstrike"
+			"appID"		"0"
 		}
+
 	}
+
 	"history"
 	{
 		"0"
 		{
-			"name"	"192.168.0.24:27015"
+			"name"		"192.168.0.24:27015"
 			"address"	"192.168.0.24:27015"
 			"lastplayed"	"1783012530"
-			"appID"	"0"
+			"appID"		"0"
 		}
+
 		"1"
 		{
-			"name"	"192.168.0.48:27015"
+			"name"		"192.168.0.48:27015"
 			"address"	"192.168.0.48:27015"
 			"lastplayed"	"1783030695"
-			"appID"	"0"
+			"appID"		"0"
 		}
+
 		"2"
 		{
-			"name"	"192.168.0.45:27015"
+			"name"		"192.168.0.45:27015"
 			"address"	"192.168.0.45:27015"
 			"lastplayed"	"1783798439"
-			"appID"	"0"
+			"appID"		"0"
 		}
+
 		"3"
 		{
-			"name"	"169.254.108.29:27015"
+			"name"		"169.254.108.29:27015"
 			"address"	"169.254.108.29:27015"
 			"lastplayed"	"1784420560"
-			"appID"	"0"
+			"appID"		"0"
 		}
+
 		"4"
 		{
-			"name"	"169.254.115.41:27015"
+			"name"		"169.254.115.41:27015"
 			"address"	"169.254.115.41:27015"
 			"lastplayed"	"1784422771"
-			"appID"	"0"
+			"appID"		"0"
 		}
+
+		"5"
+		{
+			"name"		"192.168.0.43:27015"
+			"address"	"192.168.0.43:27015"
+			"lastplayed"	"1788898989"
+			"appID"		"0"
+		}
+
 	}
+
 }
