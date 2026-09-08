@@ -1,0 +1,48 @@
+}
+"1" "Adminis Only"
+{
+	"1" "kickmenu"	"amx_kickmenu"
+	"2" "banmenu"	"amx_banmenu"
+	"3" "slay"			"messagemode amx_slay"
+	"4" "kick"				"messagemode amx_kick"
+	"5" "Ban"			"messagemode amx_ban"
+        "6" "Restart" "amx_cvar sv_restart 1"
+        "7" "Name of the map" "messagemode amx_map"
+        "8" "Amxmodmenu" "amxmodmenu"
+}
+"2" "CW server" 
+{
+	"1" "Match 2 skript"
+	{
+		"1" "skript"		"amx_match2 mr15 esl recdemo"
+		"2" "knife round"			"amx_round knife"
+		"3" "smoke round"			"amx_round smoke"
+        "4" "Restart"	"amx_cvar sv_restart 1"
+        "5" "Start"		"say /start"
+        "6" "Stop"		"say /stop"	
+	}	
+	"2" "Password"
+	{
+		"1" "Remove password"		"amx_cvar sv_password ''"
+		"2" "password: 621"		"amx_cvar sv_password 621"
+		"3" "password: 482"		"amx_cvar sv_password 482"
+		"4" "password: 823"		"amx_cvar sv_password 823"
+		"5" "password: 329"		"amx_cvar sv_password 329"
+		"6" "password: 239"		"amx_cvar sv_password 239"
+		"7" "password: 123456"	"amx_cvar sv_password 123456"
+	} 	
+}
+"3" "Timeleft"				"say timeleft"
+"4" "Next map"				"say nextmap"
+"5" "/rs"	"say /rs"
+"6" "/hp"				"say /hp"
+"7" "/rank"				"say /rank"
+"8" "/top15"	"say /top15"
+"9" "/me"		"say /me"
+"10" "Hand"
+    {
+        "1" "Right" "cl_righthand 1"
+		"2" "Left"  "cl_righthand 0"
+	}	
+"11" "Change team"	"chooseteam"
+"12" "Leave the menu"		"escape"

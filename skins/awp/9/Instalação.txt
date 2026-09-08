@@ -1,0 +1,20 @@
+----------------------------------------------
+www.counterzone.com.br - Counter-Strike Brasil
+----------------------------------------------
+
+INSTALAÇÃO:
+
+Arquivos .MDL devem ser transferidos para a pasta:
+C:\Arquivos de programas\Valve\cstrike\models
+
+
+Arquivos .WAV devem ser transferidos para a pasta:
+C:\Arquivos de programas\Valve\cstrike\sound\weapons
+
+
+Faça mais downloads de skins no site www.counterzone.com.br
+
+
+----------------------------------------------
+www.counterzone.com.br - Counter-Strike Brasil
+----------------------------------------------
