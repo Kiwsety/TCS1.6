@@ -1,0 +1,46 @@
+Pistols
+
+v  Glock-18 (Terrorists only): $400, 20+120 ammo, burst-fire mode. 
+  USP (Counter-Terrorists only): $500, 12+100 ammo, silenced.
+  P228: $600, 13+52 ammo, balanced sidearm. 
+v  Desert Eagle: $650, 7+35 ammo, high damage one-tap headshot. 
+v  Five-SeveN (Counter-Terrorists only): $750, 20+100 ammo, high armor penetration.
+v  Dual Berettas (Terrorists only): $800, 30+120 ammo, high fire rate. 
+
+Submachine Guns (SMGs)
+
+  MP5 Navy: $1,500, 30+120 ammo, versatile and low recoil. 
+  TMP (Counter-Terrorists only): $1,250, 18+72 ammo, silenced. 
+v  MAC-10 (Terrorists only): $1,400, 30+100 ammo, high fire rate. 
+  UMP45: $1,700, 25+100 ammo, moderate recoil. 
+  P90: $2,350, 50+100 ammo, high capacity. 
+
+Rifles
+
+v  Galil (Terrorists only): $2,000, 35+90 ammo, budget rifle. 
+v  FAMAS (Counter-Terrorists only): $2,250, 25+90 ammo, burst-fire mode. 
+v  AK-47 (Terrorists only): $2,500, 30+90 ammo, high damage. 
+  SG-552 (Terrorists only): $3,500, 30+90 ammo, scoped. 
+v  M4A1 (Counter-Terrorists only): $3,100, 30+90 ammo, silenced. 
+v  AUG (Counter-Terrorists only): $3,500, 30+90 ammo, scoped. 
+
+Shotguns
+
+v  M3 (Pump-action): $1,700, 8+32 ammo. 
+  XM1014 (Semi-automatic): $3,000, 7+32 ammo. 
+
+Sniper Rifles
+
+  Scout: $2,750, 10+90 ammo, high mobility. 
+v  AWP: $4,750, 10+30 ammo, one-hit kill to body. 
+v  G3SG1 (Terrorists only): $5,000, 20+90 ammo, semi-auto. 
+  SG550 (Counter-Terrorists only): $4,200, 30+90 ammo, semi-auto. 
+
+Machine Guns
+
+v  M249: $5,750, 100+200 ammo, suppressive fire. 
+
+Other
+
+Combat Knife: Free, melee. 
+Tactical Shield: $2,200 (CT only), blocks frontal damage.

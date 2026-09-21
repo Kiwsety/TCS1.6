@@ -32,7 +32,11 @@
 
 
 // Half-Life Server Configuration Layout Script (stores last settings chosen, too)
+<<<<<<< HEAD
 // File generated:  Mon Sep 21 03:26:18 PM
+=======
+// File generated:  Thu Sep 17 11:16:25 AM
+>>>>>>> c0435d0548aea5744af327227e8d86239459f940
 //
 //
 // Cvar	-	Setting
@@ -101,14 +105,14 @@ DESCRIPTION SERVER_OPTIONS
 	{
 		"#Cstrike_BuyTime"
 		{ NUMBER 0.250000 -1.000000 }
-		{ "0.450000" }
+		{ "3.000000" }
 	}
 
 	"mp_startmoney"
 	{
 		"#Cstrike_StartMoney"
 		{ NUMBER 800.000000 16000.000000 }
-		{ "800.000000" }
+		{ "800000.000000" }
 	}
 
 	"mp_footsteps"
